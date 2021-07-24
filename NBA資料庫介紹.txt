@@ -1,0 +1,21 @@
+#GAME 每場比賽
+#GAME_Inactive_Players  球員待過球隊
+#Game_Officals  裁判名單
+#New 新聞
+#New_Missing 遺漏新聞
+#Player 球員名單
+ *full_name 全名 *first_name 姓 *last_name 名 *s_active 是否為現役
+#Player_Attributes
+ *first_name 姓 *last_name 名 *BIRTHDATE 出生日 *SCHOOL 學校 *COUNTRY 國籍 *LAST_AFFILLATION 大學
+ *HEIGHT 體重 (列名key錯)  *WEIGHT 身高 (列名key錯) *season_exp 賽季經驗 *jersey 現役號碼 *POSITOIN 位置
+*ROSTERSTATUS 賽季狀態或是否退役 *FROM_YEAR 初賽季 *TO_YEAR 最後賽季 *DRAFT_ROUND 選秀輪次 *DRAFT_NUMBER 選秀順位
+*PTS 平均得分 *AST 助攻 *REB　籃板　*PIE (效率值)
+
+#Player_Bios 球員爬取頁面
+
+#Player_Photos 球員照片
+#Player_Salary 球員剩餘薪資
+#Team_salary 賽季薪資
+
+
+
